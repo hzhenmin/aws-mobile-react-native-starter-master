@@ -2,7 +2,7 @@
 
 **Please submit issues to the [aws-amplify](https://github.com/aws/aws-amplify/issues) repository.**
 
-TestCommit56
+TestCommit57
 
 Bootstrap a React Native application on AWS. This starter automatically provisions a Serverless infrastructure with authentication, authorization, image storage, API access and database operations. It also includes user registration and MFA support. The sample use case is a "Pet Tracker" where after a user registers and logs in they can upload pictures of their pet to the system along with information like the birthday or breed.
 
